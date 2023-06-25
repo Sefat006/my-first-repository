@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    /* font-family: 'Anton', sans-serif; */
+}
+
+.title-main {
+    color: red;
+    font-family: 'Anton', sans-serif;
+}
+
+.sub-title {
+    color: purple;
+}
